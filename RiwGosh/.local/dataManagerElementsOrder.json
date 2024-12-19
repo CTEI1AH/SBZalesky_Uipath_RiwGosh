@@ -1,0 +1,116 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "SQLcomand&Sequence_1",
+        "INTVAR2&Sequence_1",
+        "VAR1&Sequence_1",
+        "dt_TEST&Sequence_1",
+        "DBConnection&Sequence_1",
+        "dt_elementInfoDT&Sequence_1",
+        "dt_goroda&Sequence_1",
+        "dt_brends&Sequence_1",
+        "dt_elementsURLs&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Scripts/Find_Brand.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_str_brand"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Scripts/Run_All_Elements.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "out_str_city&Sequence_21",
+        "Browser&Sequence_1",
+        "io_str_Element_ID&Sequence_1",
+        "io_str_Element_Name&Sequence_1",
+        "io_str_Element_Volume&Sequence_1",
+        "io_str_Element_Color&Sequence_1",
+        "io_str_Element_Price&Sequence_1",
+        "io_str_Element_Address&Sequence_1",
+        "dt_elementsURLs&Sequence_5",
+        "str_checkElements&Sequence_5",
+        "regex_elements&Sequence_5",
+        "int_checkElements&Sequence_5",
+        "int_findedElements&Sequence_5",
+        "bool_elementOptions&Sequence_6",
+        "bool_colorOptions&Sequence_6",
+        "dt_optionsURLs&Sequence_12",
+        "ExtractDataTable&Sequence_17",
+        "dt_colorsURLs&Sequence_17"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "io_dt_elementInfoDT",
+        "in_dt_goroda"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Scripts/Get&Send_Element_Info.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "double_Element_Volume&Sequence_4",
+        "str_Element_Volume&Sequence_1",
+        "dt_elementInfoDT&Sequence_4",
+        "int_Element_ID&Sequence_1",
+        "int_Element_Price&Sequence_4",
+        "regex_str_Element_Price&Sequence_4",
+        "str_Element_Color&Sequence_1",
+        "str_Element_Name&Sequence_1",
+        "str_Element_Price&Sequence_1",
+        "str_Element_Address&Sequence_1",
+        "dt_ID_Volume&Sequence_4",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "io_dt_elementInfoDT_GS",
+        "io_str_city"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Scripts/Get_Addresses.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bool_TF&Sequence_2",
+        "out_dt_allAddress&Sequence_2",
+        "dt_allAddress&Sequence_1",
+        "ExtractDataTable&Sequence_2",
+        "str_City&Sequence_2",
+        "dt_elementsURLs&Sequence_2",
+        "str_checkElements&Sequence_2",
+        "regex_elements&Sequence_2",
+        "int_checkElements&Sequence_2",
+        "int_findedElements&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_str_allAddress",
+        "in_str_city"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

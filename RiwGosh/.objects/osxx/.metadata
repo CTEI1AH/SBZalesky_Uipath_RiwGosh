@@ -1,0 +1,12 @@
+﻿{
+  "Name": "2 Декоративная косметика Russian Beauty Guru(1)",
+  "Type": "App",
+  "Id": "osxxmQwIUkOPXTioYPwGSA",
+  "Reference": "zoVI8nNYCU67ZRRcMpe-bg/osxxmQwIUkOPXTioYPwGSA",
+  "Created": "2024-12-13T14:24:20.9526143Z",
+  "Updated": "2024-12-13T14:24:20.9526143Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

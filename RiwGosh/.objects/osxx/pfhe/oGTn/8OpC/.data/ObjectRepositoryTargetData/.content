@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JOB6PvP9g0SZKTQPiSir6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://rivegauche.ru/search?st=RUSSIAN%20BEAUTY%20GURU&amp;text=RUSSIAN%20BEAUTY%20GURU&amp;offset=24" DesignTimeRectangle="432, -5182, 1044, 6309" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl tag='CMS-PRODUCT-LISTING' /&gt;" Guid="5f9846bb-9d47-4f93-b5d5-65fb413133c5" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='80bd5bfb-d452-4510-b54e-41901ed565ba,1734097548' title='РИВ ГОШ - Магазин парфюмерии и косметики – страница №1' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ab86d1569ee886c8f25cb43ef36b484a.png" xmlns="">0WpzrKa_YtE6FiNY4Y3O4aQ</imageRef>
+    </TargetAnchorable>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Element_URL'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataNextLink' /&gt;
+&lt;/Table&gt;</p:InArgument>
+    <TargetAnchorable x:Key="NextLinkTarget" BrowserURL="rivegauche.ru/search" DesignTimeRectangle="994, 603, 76, 24" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Вперед »' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Вперед »' tag='A' type='' class='button ng-star-inserted' check:innerText='Вперед »' /&gt;" Guid="5edca534-62a1-49db-9b68-9633f133ae11" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='80bd5bfb-d452-4510-b54e-41901ed565ba,1734097548' title='РИВ ГОШ - Магазин парфюмерии и косметики – страница №1' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

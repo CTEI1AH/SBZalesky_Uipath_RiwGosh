@@ -1,0 +1,13 @@
+﻿{
+  "Name": "2 Декоративная косметика Russian Beauty Guru",
+  "Type": "Screen",
+  "Id": "9XN8FtoaY0-LOsJZGksdDA",
+  "Reference": "zoVI8nNYCU67ZRRcMpe-bg/9XN8FtoaY0-LOsJZGksdDA",
+  "ParentRef": "zoVI8nNYCU67ZRRcMpe-bg/qmw98r3K_0i9QXRSEJQFjw",
+  "Created": "2024-12-13T13:44:42.9009241Z",
+  "Updated": "2024-12-13T13:44:42.9009241Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

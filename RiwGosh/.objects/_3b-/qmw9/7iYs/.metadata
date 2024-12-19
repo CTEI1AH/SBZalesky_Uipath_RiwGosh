@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge RBG Russian Beauty Guru Полночь в Москве",
+  "Type": "Screen",
+  "Id": "7iYs2FZF5USZRRZKQduIgw",
+  "Reference": "zoVI8nNYCU67ZRRcMpe-bg/7iYs2FZF5USZRRZKQduIgw",
+  "ParentRef": "zoVI8nNYCU67ZRRcMpe-bg/qmw98r3K_0i9QXRSEJQFjw",
+  "Created": "2024-12-16T10:27:40.1189976Z",
+  "Updated": "2024-12-16T10:27:40.1189976Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

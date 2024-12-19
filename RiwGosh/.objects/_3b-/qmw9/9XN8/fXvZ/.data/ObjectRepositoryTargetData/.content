@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AkxPznMUOEGwIUj6DFgPjg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://rivegauche.ru/product/russian-beauty-guru-culture-of-radiance" DesignTimeRectangle="1141, 609, 86, 40" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl class='box' css-selector='body&amp;gt;app-root&amp;gt;layout&amp;gt;main&amp;gt;product-page&amp;gt;div&amp;gt;div&amp;gt;product-info&amp;gt;div&amp;gt;product-variant&amp;gt;product-color-carousel&amp;gt;div&amp;gt;div' tag='DIV' /&gt;" Guid="e8227b4e-587d-4eef-899e-fc2093280d85" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='80bd5bfb-d452-4510-b54e-41901ed565ba,1734097548' title='RBG Russian Beauty Guru Культура сияния 01 Розовый 4 г Освежающий консилер от Ирины Ливенталь - купить по цене 1020 руб в РИВ ГОШ' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f8cbef66bf80a1ec856ed1a608f4e5da.png" xmlns="">09IKXIK3uwUSmrEHpKt_I4A</imageRef>
+    </TargetAnchorable>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Colors'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
