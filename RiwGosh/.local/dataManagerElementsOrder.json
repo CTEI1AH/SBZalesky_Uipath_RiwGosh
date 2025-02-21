@@ -12,6 +12,8 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "pass&Sequence_1",
+        "user&Sequence_1",
         "SQLcomand&Sequence_1",
         "INTVAR2&Sequence_1",
         "VAR1&Sequence_1",
